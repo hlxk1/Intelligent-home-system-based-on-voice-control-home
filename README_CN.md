@@ -1,7 +1,7 @@
-# STM32F407ZE
-Intelligent home system based on voice control home
+# 基于语音控制的智能家居系统
+基于STM32F407ZE开发
 
-<a src="./README">ENGLISH</a>
+<a href="./README">ENGLISH</a>
 
 ### 项目背景
 
