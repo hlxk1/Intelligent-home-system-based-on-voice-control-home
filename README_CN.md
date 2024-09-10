@@ -1,7 +1,7 @@
 # 基于语音控制的智能家居系统
 基于STM32F407ZE开发
 
-<a href="./README">ENGLISH</a>
+<a href="https://github.com/hlxk1/Intelligent-home-system-based-on-voice-control-home/blob/main/README.md">ENGLISH</a>
 
 ### 项目背景
 
