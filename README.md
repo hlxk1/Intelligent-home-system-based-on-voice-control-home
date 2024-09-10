@@ -1,6 +1,7 @@
 # Intelligent home system based on voice control home
 STM32F407ZE development
-<a href="[./README_CN](https://github.com/hlxk1/Intelligent-home-system-based-on-voice-control-home/blob/main/README_CN.md)">中文简体</a>
+
+<a href="https://github.com/hlxk1/Intelligent-home-system-based-on-voice-control-home/blob/main/README_CN.md">中文简体</a>
 
 ****
 
